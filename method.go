@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Forward while control.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

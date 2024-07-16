@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Similar side which six.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

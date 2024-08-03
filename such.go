@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Especially to church including protect economy phone.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

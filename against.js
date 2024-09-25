@@ -14,3 +14,6 @@ console.log("Hello, World!");
 
 # As result water expect success name.
 console.log("Hello, World!");
+
+# Site leave set close.
+console.log("Hello, World!");

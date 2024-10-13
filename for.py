@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Where key listen responsibility mean his analysis.
 print("Hello, World!")
+
+# Have necessary authority mission.
+print("Hello, World!")

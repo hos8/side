@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Skill young with edge itself.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

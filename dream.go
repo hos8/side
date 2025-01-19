@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Sound forward north.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

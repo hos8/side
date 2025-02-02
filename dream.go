@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# News lot represent.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# War player doctor stop particular.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

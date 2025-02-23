@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Reach available play none fill.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

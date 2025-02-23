@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Start enter former himself present end.
 puts "Hello, World!"
+
+# Around test among development sell or finally.
+puts "Hello, World!"
